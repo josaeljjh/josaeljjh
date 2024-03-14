@@ -42,21 +42,13 @@ href="https://camo.githubusercontent.com/8507c232ea8b729d6f77707cd2b90acc8532951
       </td>
    </tr>
    <tr>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.mobilesv.trans_express&amp;hl=es-419" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/1b25dcae758a447b2721060717814d15488dce8a6a3bdc4c4b47d9f0ca2e5e76/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f645535347665484452654676784f3369447a4a465f77333137436f653869667a51484e6159336149585748466e4e74327879724c66656d75765630586c5072424d79773d733138302d7277" data-canonical-src="https://lh3.googleusercontent.com/dU54veHDReFvxO3iDzJF_w317Coe8ifzQHNaY3aIXWHFnNt2xyrLfemuvV0XlPrBMyw=s180-rw" style="max-width: 100%;">
-         </a>
-      </td>
+    
       <td>
          <a href="https://play.google.com/store/apps/details?id=com.bancohipotecario.android&amp;hl=es-419" rel="nofollow">
          <img src="https://camo.githubusercontent.com/4d5f65f676818067bea84ea92c0dfa7db3b31636b61a80004e738bf0dea51617/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f497a6d4d685f67477659412d626d78433551625f646744775a5a4b783667336b4c4a47674b623552794334507545456145384a4853657371753732764342376c7373593d733138302d7277" data-canonical-src="https://lh3.googleusercontent.com/IzmMh_gGvYA-bmxC5Qb_dgDwZZKx6g3kLJGgKb5RyC4PuEEaE8JHSesqu72vCB7lssY=s180-rw" style="max-width: 100%;">
          </a>
       </td>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.diimo&amp;hl=es" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/d16ee0ed4c63fb49bde13434d940ffdc29ab03aaf0807289affbbc6ee7667995/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f304c415a3348734374765a534867425f5672745479764d724b432d5567776a304e70446c495644673450666b383144736b6f7a79466a32496b4b4d6a3337583955773d733138302d7277" data-canonical-src="https://play-lh.googleusercontent.com/0LAZ3HsCtvZSHgB_VrtTyvMrKC-Ugwj0NpDlIVDg4Pfk81DskozyFj2IkKMj37X9Uw=s180-rw" style="max-width: 100%;">
-         </a>
-      </td>
+
    </tr>
    <tr>
       <td>
