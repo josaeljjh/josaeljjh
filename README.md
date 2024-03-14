@@ -43,10 +43,14 @@ href="https://camo.githubusercontent.com/8507c232ea8b729d6f77707cd2b90acc8532951
    </tr>
    <tr>
       <td>
-   
+         <a href="https://play.google.com/store/apps/details?id=com.mobilesv.mor&amp;hl=es-419" rel="nofollow">
+         <img align="middle" src="https://camo.githubusercontent.com/c58023f3abcdb45f2e521279ddb6e19b6f6d3d4721bf66c97e776327801a431f/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f3534454a30464d5730375770485f7a79512d376557625a794630487045736b35597042674d54492d505f377455694e6b6d734c4d5443765f69466e6c4159572d4e38493d733138302d7277" data-canonical-src="https://lh3.googleusercontent.com/54EJ0FMW07WpH_zyQ-7eWbZyF0HpEsk5YpBgMTI-P_7tUiNkmsLMTCv_iFnlAYW-N8I=s180-rw" style="max-width: 100%;">
+         </a>
       </td>
       <td>
-        
+         <a href="https://play.google.com/store/apps/details?id=com.mobilesv.trans_express&amp;hl=es-419" rel="nofollow">
+         <img src="https://camo.githubusercontent.com/1b25dcae758a447b2721060717814d15488dce8a6a3bdc4c4b47d9f0ca2e5e76/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f645535347665484452654676784f3369447a4a465f77333137436f653869667a51484e6159336149585748466e4e74327879724c66656d75765630586c5072424d79773d733138302d7277" data-canonical-src="https://lh3.googleusercontent.com/dU54veHDReFvxO3iDzJF_w317Coe8ifzQHNaY3aIXWHFnNt2xyrLfemuvV0XlPrBMyw=s180-rw" style="max-width: 100%;">
+         </a>
       </td>
       <td>
          <a href="https://play.google.com/store/apps/details?id=com.bancohipotecario.android&amp;hl=es-419" rel="nofollow">
@@ -54,7 +58,9 @@ href="https://camo.githubusercontent.com/8507c232ea8b729d6f77707cd2b90acc8532951
          </a>
       </td>
       <td>
-    
+         <a href="https://play.google.com/store/apps/details?id=com.diimo&amp;hl=es" rel="nofollow">
+         <img src="https://camo.githubusercontent.com/d16ee0ed4c63fb49bde13434d940ffdc29ab03aaf0807289affbbc6ee7667995/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f304c415a3348734374765a534867425f5672745479764d724b432d5567776a304e70446c495644673450666b383144736b6f7a79466a32496b4b4d6a3337583955773d733138302d7277" data-canonical-src="https://play-lh.googleusercontent.com/0LAZ3HsCtvZSHgB_VrtTyvMrKC-Ugwj0NpDlIVDg4Pfk81DskozyFj2IkKMj37X9Uw=s180-rw" style="max-width: 100%;">
+         </a>
       </td>
    </tr>
    <tr>
