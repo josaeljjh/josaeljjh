@@ -42,13 +42,20 @@ href="https://camo.githubusercontent.com/8507c232ea8b729d6f77707cd2b90acc8532951
       </td>
    </tr>
    <tr>
-    
+      <td>
+   
+      </td>
+      <td>
+        
+      </td>
       <td>
          <a href="https://play.google.com/store/apps/details?id=com.bancohipotecario.android&amp;hl=es-419" rel="nofollow">
          <img src="https://camo.githubusercontent.com/4d5f65f676818067bea84ea92c0dfa7db3b31636b61a80004e738bf0dea51617/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f497a6d4d685f67477659412d626d78433551625f646744775a5a4b783667336b4c4a47674b623552794334507545456145384a4853657371753732764342376c7373593d733138302d7277" data-canonical-src="https://lh3.googleusercontent.com/IzmMh_gGvYA-bmxC5Qb_dgDwZZKx6g3kLJGgKb5RyC4PuEEaE8JHSesqu72vCB7lssY=s180-rw" style="max-width: 100%;">
          </a>
       </td>
-
+      <td>
+    
+      </td>
    </tr>
    <tr>
       <td>
