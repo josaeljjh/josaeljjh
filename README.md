@@ -80,11 +80,12 @@ href="https://camo.githubusercontent.com/8507c232ea8b729d6f77707cd2b90acc8532951
          <img src="https://camo.githubusercontent.com/4d5f65f676818067bea84ea92c0dfa7db3b31636b61a80004e738bf0dea51617/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f497a6d4d685f67477659412d626d78433551625f646744775a5a4b783667336b4c4a47674b623552794334507545456145384a4853657371753732764342376c7373593d733138302d7277" data-canonical-src="https://lh3.googleusercontent.com/IzmMh_gGvYA-bmxC5Qb_dgDwZZKx6g3kLJGgKb5RyC4PuEEaE8JHSesqu72vCB7lssY=s180-rw" style="max-width: 100%;">
          </a>
       </td>
-      
-      
    </tr>
-   
 </tbody></table>
+
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Contact me:</h2><a id="user-content-contact-me" class="anchor" aria-label="Permalink: Contact me:" href="#contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<p dir="auto"><a href="https://gmail.com" rel="nofollow"><img src="https://camo.githubusercontent.com/2231e8e3358a36a022f521498fc30a3170a539ec1f8c90c7499e3bebba54c00f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d766963746f72616c666f6e736f3932302d3732616532643f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Email" data-canonical-src="https://img.shields.io/badge/Gmail-victoralfonso920-72ae2d?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;"></a></p>
 <!--
 **josaeljjh/josaeljjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
