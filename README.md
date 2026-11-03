@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010" alt="Kotlin" />
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010" alt="Jetpack Compose" />
 <img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010" alt="Coroutines & Flow" />
+<img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010" alt="Kotlin Multiplatform" />
 <img src="https://img.shields.io/badge/Dependency_Injection-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Dependency Injection" />
 <br /><br />
 <b>iOS</b><br />
@@ -29,8 +30,8 @@
 <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010" alt="SwiftUI" />
 <br /><br />
 <b>Architecture &amp; Tooling</b><br />
-<img src="https://img.shields.io/badge/Clean_Architecture-6E40C9?style=for-the-badge&labelColor=101010" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white&labelColor=101010" alt="Realm" />
+<img src="https://img.shields.io/badge/Clean_Architecture-6E40C9?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nd2hpdGUnPjxwYXRoIGQ9J00xMiAyIDEgN2wxMSA1IDExLTUtMTEtNXptMCAxMi4yTDMuMiAxMC4zIDEgMTEuM2wxMSA1IDExLTUtMi4yLTFMMTIgMTQuMnptMCA0LjYtOC44LTMuOUwxIDE2bDExIDUgMTEtNS0yLjItMS4xTDEyIDE4Ljh6Jy8%2BPC9zdmc%2B&logoColor=white&labelColor=101010" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" alt="Realm" />
 <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Room" />
 <img src="https://img.shields.io/badge/AI_with_Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=101010" alt="AI with Claude Code" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010" alt="Android Studio" />
