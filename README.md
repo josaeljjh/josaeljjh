@@ -69,6 +69,12 @@
   </tr>
   <tr>
     <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=com.mobile.lifemiles">
+        <img src="https://play-lh.googleusercontent.com/mEwCmi3m1UVIuzIuXfsslgy013hurgUaq3XTmQEcWrpblJhWCzfJiwf9vu0qwTlXbAziYjqcnyO9UNVWqcEvowA=s120-rw" width="90" height="90" alt="lifemiles" /><br />
+        <sub><b>lifemiles</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
       <a href="https://play.google.com/store/apps/details?id=com.yummy.customer">
         <img src="https://play-lh.googleusercontent.com/ErYzEKS_-DGuVu_d4uLWv7rt9YGt-Wq1LnqYdJzemtqQot3bBZjJP_aDlqn2TeDilIW4se3dCvsDBSMfVFZVNg=s120-rw" width="90" height="90" alt="Yummy" /><br />
         <sub><b>Yummy</b></sub>
@@ -80,14 +86,14 @@
         <sub><b>Banco Hipotecario</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="160">
       <a href="https://play.google.com/store/apps/details?id=com.afp.crecer.app.android">
         <img src="https://play-lh.googleusercontent.com/IdYnmJb9P1Q51RCI_LR94hE8I8uaWxo6FYf_nopVhhC1pmd4pkDVaVfGfjIXdwrOMSR7G9DKOi5L1DWs9OI_fnU=s120-rw" width="90" height="90" alt="AFP Crecer" /><br />
         <sub><b>AFP Crecer</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="160">
       <a href="https://play.google.com/store/apps/details?id=com.excelautomotriz.excelOnline">
         <img src="https://play-lh.googleusercontent.com/t-Dkrb6eTlHSowNqAk1J48yqNdG2xp4GfdvY8geOFatIkDOnD0otjSkBP-UPhOjs2wNKJLYUpcEFcIyQh2aXhRk=s120-rw" width="90" height="90" alt="Excel App" /><br />
@@ -100,14 +106,14 @@
         <sub><b>Gourmet Express</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="160">
       <a href="https://play.google.com/store/apps/details?id=com.mobilesv.lacalaca">
         <img src="https://play-lh.googleusercontent.com/x4nvNK_5qP0cPjX6cw-uXRlLj_1CJTkha-jSk9QFO5CUr8HEwPLqHbYPZh9ZlIQxJOJhpZfQ8MzQ364zX56d=s120-rw" width="90" height="90" alt="LACA LACA" /><br />
         <sub><b>LACA LACA</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="160">
       <a href="https://play.google.com/store/apps/details?id=com.mobilesv.samix">
         <img src="https://play-lh.googleusercontent.com/ObUdFhIifNByXjaRvYR3QCgKCCt3-OWkvjh9_DQHBZ89GHLg1wvd99aX2RrMe6Ej9NLoquAhkclJ1RQGrF4upw=s120-rw" width="90" height="90" alt="Radio Corporación" /><br />
