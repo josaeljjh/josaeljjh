@@ -25,69 +25,67 @@ href="https://camo.githubusercontent.com/8507c232ea8b729d6f77707cd2b90acc8532951
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">My Portafolio:</h2><a id="user-content-my-profile-app" class="anchor" aria-label="Permalink: My profile app:" href="#my-profile-app"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <table>
-   <tbody><tr>
-        <td>
-         <a href="https://play.google.com/store/apps/details?id=com.n1co.pay.app" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/9e344634f9cf766b1b19e985173f75c5e5fd87d75d5ad409b2e045db78055239/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f5f616474495f626f7a4f35443667546e746e51714642734b32316c4870717337514844373862507243724143364f4a377a5a43704e476c73724f4e7a523744495568733d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.hugoapp.client&amp;hl=es" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/811eb28d73a2e8bf7d8a13e38dd449356caa3c7e890b8a23dea382b0b8c8319f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6c75507358456543366c6b774c65476d316f58496f62685f704556342d6b74474d33777756766a735548567a71386575415a6a613534416d7047793239306c706679475a3d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.yummy.customer&amp;hl=es&amp;gl=US" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/15f99a07c2df636012015cd61d2db0d75dd2fb8594aed15476c239d9d7caaace/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f566473734a3063376a316d54754237614a484d51714f6f6f78536b65346670527a49327261653251537944557038714a386468345864465061337a366e4679375662343d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.mobilesv.lacalaca&amp;hl=es-419" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/337f59d343ec9acbe1fd668f27bb1f977ac0de39dd23c7b25f6a5ff0ab9a98e6/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f3143424775535832746c4572525a634e6c6d4f74755076416232627a524b70485f5969316166525f7065316a624a5f6750505f7153325f5374514d4731656b676476343d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-   </tr>
-   
-   <tr>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=mobilesv.gourmetexpress&amp;hl=es" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/1058f5e1c815153d8d3ad5033966a118f183f177acb58d9087b280a56fa8b5f9/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f5a5a6165736f6168595732366d773077556a307165374f4870724e65696f666c732d677343595171644b6266344b4b363763315f766b56395745424d65672d56476455523d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.mobilesv.ccsb&amp;hl=es" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/429ca9e56d6b622181a0525aaeb5553622fd4062ac493608ef1f416e0da1d955/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f34675a5063447635356b76527876316337397a4839796174582d584770696e414e6d6a4c4d2d366e67626844596c5f53597a4f64744b5455527542664b6f6b6e7a4b6b3d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.excelautomotriz.excelOnline" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/4c47ccecb96bfe6e5a67269f5b39e0ded203e01623e4284913cfc402a170f2f4/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f5763314a5763772d654a4c68556d2d4c4665374c50545a41375f685266712d4f68583676736c796e34533435756c77505f694d567831566f457448516e744f52676364363d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.mobilesv.pagalo&amp;hl=es" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/0e73e5524bb6ed67d970c966c36aeac694b397cf88f1474a6a92760224cfdb97/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f473247426959587931416d73675368625369532d376b50326f546b7549364243677673774653556e6c314635596a68486b37697666587a4a433769466e644b6759513d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <a href="https://play.google.com/store/search?q=afp%20crecer&amp;c=apps&amp;hl=es" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/75d7a1af7b124a91d539d778c0ef6674d0e6cedde6c76e3ad3f3e8355e98c693/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6533745839386367706250733145337a4b675a696a415154443954566b5f5f326d715377576c553361664f434673706b31684d7636506b536b6b716c6c36307368546b3d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.mobilesv.samix&amp;hl=es" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/13927b29d7e3bf037a771fae90510eecdfb7d1bb8dca5958a2f411175d6bacab/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f424159476b673161516777663464375753583268426762545f697546386558456e664f636f44674467516b6c4a417647374d6261424e5336516a43334158725938513d733138302d7277" style="max-width: 100%;">
-         </a>
-      </td>
-      <td>
-         <a href="https://play.google.com/store/apps/details?id=com.bancohipotecario.android&amp;hl=es-419" rel="nofollow">
-         <img src="https://camo.githubusercontent.com/4d5f65f676818067bea84ea92c0dfa7db3b31636b61a80004e738bf0dea51617/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f497a6d4d685f67477659412d626d78433551625f646744775a5a4b783667336b4c4a47674b623552794334507545456145384a4853657371753732764342376c7373593d733138302d7277" data-canonical-src="https://lh3.googleusercontent.com/IzmMh_gGvYA-bmxC5Qb_dgDwZZKx6g3kLJGgKb5RyC4PuEEaE8JHSesqu72vCB7lssY=s180-rw" style="max-width: 100%;">
-         </a>
-      </td>
-   </tr>
-</tbody></table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=com.n1co.pay.app">
+        <img src="https://play-lh.googleusercontent.com/H5jdtnwDWl97b22Edh_LVC1jOtkOCMSAeO2GxGFJW1jaYRJPW6qRnDz1v2nys_I64kdyTVwQ4Dip-wrqBiBHpqo=s120-rw" width="90" height="90" alt="N1CO" /><br />
+        <sub><b>N1CO</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=com.yummy.customer">
+        <img src="https://play-lh.googleusercontent.com/ErYzEKS_-DGuVu_d4uLWv7rt9YGt-Wq1LnqYdJzemtqQot3bBZjJP_aDlqn2TeDilIW4se3dCvsDBSMfVFZVNg=s120-rw" width="90" height="90" alt="Yummy" /><br />
+        <sub><b>Yummy</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=com.bancohipotecario.android">
+        <img src="https://play-lh.googleusercontent.com/iWAg7RgLzs52ZCFDXDNJpR0O0ffZIt0CZ3FhUGQaCmn9i86XzDkrICvCY4C2sKRntNfxfpBp76Y5xNnHKsAn=s120-rw" width="90" height="90" alt="Banco Hipotecario" /><br />
+        <sub><b>Banco Hipotecario</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=com.afp.crecer.app.android">
+        <img src="https://play-lh.googleusercontent.com/IdYnmJb9P1Q51RCI_LR94hE8I8uaWxo6FYf_nopVhhC1pmd4pkDVaVfGfjIXdwrOMSR7G9DKOi5L1DWs9OI_fnU=s120-rw" width="90" height="90" alt="AFP Crecer" /><br />
+        <sub><b>AFP Crecer</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=com.excelautomotriz.excelOnline">
+        <img src="https://play-lh.googleusercontent.com/t-Dkrb6eTlHSowNqAk1J48yqNdG2xp4GfdvY8geOFatIkDOnD0otjSkBP-UPhOjs2wNKJLYUpcEFcIyQh2aXhRk=s120-rw" width="90" height="90" alt="Excel App" /><br />
+        <sub><b>Excel App</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=mobilesv.gourmetexpress">
+        <img src="https://play-lh.googleusercontent.com/a21m606Ppyb3zTZjHmEJ3bILVu9HY3Rrqocd5_TWJfAOsrRnekoBhllzI0WomMQtUR3slFBRWqWpBMCBRjJqpQ=s120-rw" width="90" height="90" alt="Gourmet Express" /><br />
+        <sub><b>Gourmet Express</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=com.mobilesv.lacalaca">
+        <img src="https://play-lh.googleusercontent.com/x4nvNK_5qP0cPjX6cw-uXRlLj_1CJTkha-jSk9QFO5CUr8HEwPLqHbYPZh9ZlIQxJOJhpZfQ8MzQ364zX56d=s120-rw" width="90" height="90" alt="LACA LACA" /><br />
+        <sub><b>LACA LACA</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=com.mobilesv.samix">
+        <img src="https://play-lh.googleusercontent.com/ObUdFhIifNByXjaRvYR3QCgKCCt3-OWkvjh9_DQHBZ89GHLg1wvd99aX2RrMe6Ej9NLoquAhkclJ1RQGrF4upw=s120-rw" width="90" height="90" alt="Radio Corporación" /><br />
+        <sub><b>Radio Corporación</b></sub>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://play.google.com/store/apps/details?id=com.mobilesv.ccsb">
+        <img src="https://play-lh.googleusercontent.com/MdicVvfl55W7DkS-qDozPsqJiucF_MCOS1P9oJDxPli5mOdYn3g4IoUGCF_smNI6aRAXpunY5Ow0WTU0oOqWmsw=s120-rw" width="90" height="90" alt="Drink Incidence" /><br />
+        <sub><b>Drink Incidence</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Contact me:</h2><a id="user-content-contact-me" class="anchor" aria-label="Permalink: Contact me:" href="#contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
