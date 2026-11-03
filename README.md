@@ -33,8 +33,6 @@
 <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white&labelColor=101010" alt="Realm" />
 <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Room" />
 <img src="https://img.shields.io/badge/AI_with_Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=101010" alt="AI with Claude Code" />
-<br /><br />
-<b>Tools</b><br />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010" alt="Android Studio" />
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010" alt="Xcode" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010" alt="Postman" />
