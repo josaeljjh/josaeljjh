@@ -42,88 +42,22 @@
 
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">My Portafolio:</h2><a id="user-content-my-profile-app" class="anchor" aria-label="Permalink: My profile app:" href="#my-profile-app"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.n1co.pay.app">
-        <img src="https://play-lh.googleusercontent.com/H5jdtnwDWl97b22Edh_LVC1jOtkOCMSAeO2GxGFJW1jaYRJPW6qRnDz1v2nys_I64kdyTVwQ4Dip-wrqBiBHpqo=s120-rw" width="90" height="90" alt="N1CO" /><br />
-        <sub><b>N1CO</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.n1co.business_app">
-        <img src="https://play-lh.googleusercontent.com/17mhVCXaOlFtFthF7_K9PZgCsE6xGZYU1W6k9LXnkhZAF8iJAiQkfvgo1EZssjhjPWmhuUeDFfevmJUaERz2Gw=s120-rw" width="90" height="90" alt="n1co business" /><br />
-        <sub><b>n1co business</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=core.reader.fttecnologias.com.t2p.n1co">
-        <img src="https://play-lh.googleusercontent.com/6IUUJwqsGcRKzHwYnAO4UVH4jYZvkUchffRv2rHN6lhvHNGmm9HlvnEQ9ASNf2Z2FokPPwbneDtibLs8LOWz1Lk=s120-rw" width="90" height="90" alt="N1co Tap" /><br />
-        <sub><b>N1co Tap</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.mobile.lifemiles">
-        <img src="https://play-lh.googleusercontent.com/mEwCmi3m1UVIuzIuXfsslgy013hurgUaq3XTmQEcWrpblJhWCzfJiwf9vu0qwTlXbAziYjqcnyO9UNVWqcEvowA=s120-rw" width="90" height="90" alt="lifemiles" /><br />
-        <sub><b>lifemiles</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.yummy.customer">
-        <img src="https://play-lh.googleusercontent.com/ErYzEKS_-DGuVu_d4uLWv7rt9YGt-Wq1LnqYdJzemtqQot3bBZjJP_aDlqn2TeDilIW4se3dCvsDBSMfVFZVNg=s120-rw" width="90" height="90" alt="Yummy" /><br />
-        <sub><b>Yummy</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.bancohipotecario.android">
-        <img src="https://play-lh.googleusercontent.com/iWAg7RgLzs52ZCFDXDNJpR0O0ffZIt0CZ3FhUGQaCmn9i86XzDkrICvCY4C2sKRntNfxfpBp76Y5xNnHKsAn=s120-rw" width="90" height="90" alt="Banco Hipotecario" /><br />
-        <sub><b>Banco Hipotecario</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.afp.crecer.app.android">
-        <img src="https://play-lh.googleusercontent.com/IdYnmJb9P1Q51RCI_LR94hE8I8uaWxo6FYf_nopVhhC1pmd4pkDVaVfGfjIXdwrOMSR7G9DKOi5L1DWs9OI_fnU=s120-rw" width="90" height="90" alt="AFP Crecer" /><br />
-        <sub><b>AFP Crecer</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.excelautomotriz.excelOnline">
-        <img src="https://play-lh.googleusercontent.com/t-Dkrb6eTlHSowNqAk1J48yqNdG2xp4GfdvY8geOFatIkDOnD0otjSkBP-UPhOjs2wNKJLYUpcEFcIyQh2aXhRk=s120-rw" width="90" height="90" alt="Excel App" /><br />
-        <sub><b>Excel App</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=mobilesv.gourmetexpress">
-        <img src="https://play-lh.googleusercontent.com/a21m606Ppyb3zTZjHmEJ3bILVu9HY3Rrqocd5_TWJfAOsrRnekoBhllzI0WomMQtUR3slFBRWqWpBMCBRjJqpQ=s120-rw" width="90" height="90" alt="Gourmet Express" /><br />
-        <sub><b>Gourmet Express</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.mobilesv.lacalaca">
-        <img src="https://play-lh.googleusercontent.com/x4nvNK_5qP0cPjX6cw-uXRlLj_1CJTkha-jSk9QFO5CUr8HEwPLqHbYPZh9ZlIQxJOJhpZfQ8MzQ364zX56d=s120-rw" width="90" height="90" alt="LACA LACA" /><br />
-        <sub><b>LACA LACA</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.mobilesv.samix">
-        <img src="https://play-lh.googleusercontent.com/ObUdFhIifNByXjaRvYR3QCgKCCt3-OWkvjh9_DQHBZ89GHLg1wvd99aX2RrMe6Ej9NLoquAhkclJ1RQGrF4upw=s120-rw" width="90" height="90" alt="Radio Corporación" /><br />
-        <sub><b>Radio Corporación</b></sub>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://play.google.com/store/apps/details?id=com.mobilesv.ccsb">
-        <img src="https://play-lh.googleusercontent.com/MdicVvfl55W7DkS-qDozPsqJiucF_MCOS1P9oJDxPli5mOdYn3g4IoUGCF_smNI6aRAXpunY5Ow0WTU0oOqWmsw=s120-rw" width="90" height="90" alt="Drink Incidence" /><br />
-        <sub><b>Drink Incidence</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.n1co.pay.app"><img src="https://play-lh.googleusercontent.com/H5jdtnwDWl97b22Edh_LVC1jOtkOCMSAeO2GxGFJW1jaYRJPW6qRnDz1v2nys_I64kdyTVwQ4Dip-wrqBiBHpqo=s120-rw" width="80" height="80" alt="N1CO" title="N1CO" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.n1co.business_app"><img src="https://play-lh.googleusercontent.com/17mhVCXaOlFtFthF7_K9PZgCsE6xGZYU1W6k9LXnkhZAF8iJAiQkfvgo1EZssjhjPWmhuUeDFfevmJUaERz2Gw=s120-rw" width="80" height="80" alt="n1co business" title="n1co business" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=core.reader.fttecnologias.com.t2p.n1co"><img src="https://play-lh.googleusercontent.com/6IUUJwqsGcRKzHwYnAO4UVH4jYZvkUchffRv2rHN6lhvHNGmm9HlvnEQ9ASNf2Z2FokPPwbneDtibLs8LOWz1Lk=s120-rw" width="80" height="80" alt="N1co Tap" title="N1co Tap" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.mobile.lifemiles"><img src="https://play-lh.googleusercontent.com/mEwCmi3m1UVIuzIuXfsslgy013hurgUaq3XTmQEcWrpblJhWCzfJiwf9vu0qwTlXbAziYjqcnyO9UNVWqcEvowA=s120-rw" width="80" height="80" alt="lifemiles" title="lifemiles" /></a>
+<br /><br />
+<a href="https://play.google.com/store/apps/details?id=com.yummy.customer"><img src="https://play-lh.googleusercontent.com/ErYzEKS_-DGuVu_d4uLWv7rt9YGt-Wq1LnqYdJzemtqQot3bBZjJP_aDlqn2TeDilIW4se3dCvsDBSMfVFZVNg=s120-rw" width="80" height="80" alt="Yummy" title="Yummy" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.bancohipotecario.android"><img src="https://play-lh.googleusercontent.com/iWAg7RgLzs52ZCFDXDNJpR0O0ffZIt0CZ3FhUGQaCmn9i86XzDkrICvCY4C2sKRntNfxfpBp76Y5xNnHKsAn=s120-rw" width="80" height="80" alt="Banco Hipotecario" title="Banco Hipotecario" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.afp.crecer.app.android"><img src="https://play-lh.googleusercontent.com/IdYnmJb9P1Q51RCI_LR94hE8I8uaWxo6FYf_nopVhhC1pmd4pkDVaVfGfjIXdwrOMSR7G9DKOi5L1DWs9OI_fnU=s120-rw" width="80" height="80" alt="AFP Crecer" title="AFP Crecer" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.excelautomotriz.excelOnline"><img src="https://play-lh.googleusercontent.com/t-Dkrb6eTlHSowNqAk1J48yqNdG2xp4GfdvY8geOFatIkDOnD0otjSkBP-UPhOjs2wNKJLYUpcEFcIyQh2aXhRk=s120-rw" width="80" height="80" alt="Excel App" title="Excel App" /></a>
+<br /><br />
+<a href="https://play.google.com/store/apps/details?id=mobilesv.gourmetexpress"><img src="https://play-lh.googleusercontent.com/a21m606Ppyb3zTZjHmEJ3bILVu9HY3Rrqocd5_TWJfAOsrRnekoBhllzI0WomMQtUR3slFBRWqWpBMCBRjJqpQ=s120-rw" width="80" height="80" alt="Gourmet Express" title="Gourmet Express" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.mobilesv.lacalaca"><img src="https://play-lh.googleusercontent.com/x4nvNK_5qP0cPjX6cw-uXRlLj_1CJTkha-jSk9QFO5CUr8HEwPLqHbYPZh9ZlIQxJOJhpZfQ8MzQ364zX56d=s120-rw" width="80" height="80" alt="LACA LACA" title="LACA LACA" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.mobilesv.samix"><img src="https://play-lh.googleusercontent.com/ObUdFhIifNByXjaRvYR3QCgKCCt3-OWkvjh9_DQHBZ89GHLg1wvd99aX2RrMe6Ej9NLoquAhkclJ1RQGrF4upw=s120-rw" width="80" height="80" alt="Radio Corporación" title="Radio Corporación" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.mobilesv.ccsb"><img src="https://play-lh.googleusercontent.com/MdicVvfl55W7DkS-qDozPsqJiucF_MCOS1P9oJDxPli5mOdYn3g4IoUGCF_smNI6aRAXpunY5Ow0WTU0oOqWmsw=s120-rw" width="80" height="80" alt="Drink Incidence" title="Drink Incidence" /></a>
+</p>
 
 <h2>Let's connect:</h2>
 
