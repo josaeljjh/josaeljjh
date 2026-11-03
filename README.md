@@ -40,11 +40,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010" alt="Linux" />
 </p>
 
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Find me at:</h2><a id="user-content-find-me-at" class="anchor" aria-label="Permalink: Find me at:" href="#find-me-at"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-
-<p dir="auto"><a href="https://www.linkedin.com/in/josa%C3%A9l-hern%C3%A1ndez-691790184/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-Josael_Hernandez-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;"></a>
-<a href="https://github.com/josaeljjh/josaeljjh/blob/main/Professional%20CV.pdf"><img src="https://img.shields.io/badge/View_my_CV-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010" alt="View my CV" /></a>
-
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">My Portafolio:</h2><a id="user-content-my-profile-app" class="anchor" aria-label="Permalink: My profile app:" href="#my-profile-app"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <table>
@@ -130,10 +125,14 @@
   </tr>
 </table>
 
-<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Contact me:</h2><a id="user-content-contact-me" class="anchor" aria-label="Permalink: Contact me:" href="#contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<h2>Let's connect:</h2>
 
-<p dir="auto"><a href="mailto:josaeljjh@gmail.com"><img src="https://img.shields.io/badge/Gmail-josaeljjh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" /></a>
-<a href="mailto:josael_jjh@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-josael__jjh@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=101010" alt="Hotmail" /></a></p>
+<p>
+<a href="https://www.linkedin.com/in/josa%C3%A9l-hern%C3%A1ndez-691790184/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-Josael_Hernandez-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;"></a>
+<a href="https://github.com/josaeljjh/josaeljjh/blob/main/Professional%20CV.pdf"><img src="https://img.shields.io/badge/View_my_CV-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010" alt="View my CV" /></a>
+<a href="mailto:josaeljjh@gmail.com"><img src="https://img.shields.io/badge/Gmail-josaeljjh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" /></a>
+<a href="mailto:josael_jjh@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-josael__jjh@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=101010" alt="Hotmail" /></a>
+</p>
 <!--
 **josaeljjh/josaeljjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
