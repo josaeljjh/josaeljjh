@@ -12,17 +12,27 @@
 <b>Cross-platform</b><br />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010" alt="Flutter" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010" alt="Dart" />
+<img src="https://img.shields.io/badge/BLoC_%2F_Cubit-0175C2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010" alt="BLoC / Cubit" />
+<img src="https://img.shields.io/badge/Unit_Testing_(Mockito)-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010" alt="Unit Testing (Mockito)" />
+<img src="https://img.shields.io/badge/Dependency_Injection-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010" alt="Dependency Injection" />
 <br /><br />
 <b>Android</b><br />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Android" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010" alt="Kotlin" />
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010" alt="Jetpack Compose" />
-<img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010" alt="Coroutines %26 Flow" />
+<img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010" alt="Coroutines & Flow" />
+<img src="https://img.shields.io/badge/Dependency_Injection-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Dependency Injection" />
 <br /><br />
 <b>iOS</b><br />
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010" alt="iOS" />
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010" alt="Swift" />
 <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010" alt="SwiftUI" />
+<br /><br />
+<b>Architecture &amp; Tooling</b><br />
+<img src="https://img.shields.io/badge/Clean_Architecture-6E40C9?style=for-the-badge&labelColor=101010" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white&labelColor=101010" alt="Realm" />
+<img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010" alt="Room" />
+<img src="https://img.shields.io/badge/AI_with_Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=101010" alt="AI with Claude Code" />
 <br /><br />
 <b>Tools</b><br />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010" alt="Android Studio" />
